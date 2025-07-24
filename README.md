@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="AI Anvil Logo" width="200" border-radius="50%"/>
+  <img src="logo_2.png" alt="AI Anvil Logo" width="200" border-radius="50%"/>
 </p>
 
 # 🛠️ AI Anvil
