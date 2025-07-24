@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="AI Anvil Logo" width="200" border-radius="50%"/>
+</p>
+
 # 🛠️ AI Anvil
 
 > **An open-source initiative to democratize AI knowledge — from fundamentals to future tech.**
